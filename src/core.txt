@@ -2,3 +2,4 @@ Easy, repeatable testing of CLI programs/commands
 # keep defaults in sync with the manifest
 # keep defaults in sync with the manifest
 # keep defaults in sync with the manifest
+# clarify the control flow
